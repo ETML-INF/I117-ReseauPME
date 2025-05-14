@@ -5,7 +5,7 @@ Module 117 - Mettre en place l’infrastructure informatique et réseau d’une 
 
 # Organisation du module
 
-Le module se déroulera sur **8 semaines**, avec une alternance entre théorie et pratique. 
+Le module se déroulera sur **8 semaines**. 
 
 
 | **Semaine** | **Contenu**                                                                                                     | **Liens théorie et exercices** |

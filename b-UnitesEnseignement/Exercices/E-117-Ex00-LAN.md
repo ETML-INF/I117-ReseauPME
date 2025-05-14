@@ -51,6 +51,7 @@ Comprendre ce qu’est un réseau local (LAN) et savoir l’expliquer de manièr
 * Indique **deux différences principales** entre un LAN et un WAN, en **deux phrases maximum**.
 
 ---
+</br></br>
 
 ### 3. Exemples de LAN
 
