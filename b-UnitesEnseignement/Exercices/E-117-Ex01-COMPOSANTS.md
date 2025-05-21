@@ -8,7 +8,7 @@
 
 **Création :** 18.10.2024
 
-**Version :** 8 du 14.05.2025
+**Version :** 9 du 21.05.2025
 
 **Durée estimée :** 30 minutes
 
@@ -26,7 +26,7 @@
 
 * **Nom du fichier à rendre :** `X-117-Ex01-nom-prenom.extension`
 * **Lieu de dépôt :** Canal MS Teams, dans la section **Fichiers** du cours, selon les consignes de l’enseignant.
-* **Formats acceptés :** `.DOCX`, `.PDF`, `.VSDX`
+* **Formats acceptés :** `.DOCX`, `.PDF`, `.VSDX`, `.PNG`, ou autre selon les consignes de l'enseignant
 * **Date limite de rendu :** Dans les 30 minutes
 
 ---
@@ -41,39 +41,93 @@ Découvrir les composants essentiels d'un réseau informatique (LAN) et explique
 
 ### 1. Liste des composants d’un réseau
 
-* Fais des recherches pour identifier les **5 principaux composants** d'un réseau local (LAN).
+* Faites des recherches pour identifier les **5 principaux composants** d'un réseau local (LAN).
+
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
 
 ---
 
 ### 2. Explication de chaque composant
 
-* Pour chaque composant identifié, explique son rôle en **2 à 3 phrases maximum**.
-* Utilise des termes simples que même quelqu’un qui n’a jamais entendu parler de réseau pourrait comprendre.
+* Pour chaque composant identifié, expliquez son rôle en **2 à 3 phrases maximum**.
+* Utilisez des termes simples que même quelqu’un qui n’a jamais entendu parler de réseau pourrait comprendre.
+
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
 
 ---
 
 ### 3. Schéma illustrant un réseau local simple
 
-* Utilise **Visio** pour créer un **schéma simple** représentant un réseau local avec les composants que tu as décrits.
-* Ton schéma doit inclure au minimum :
+* Utilisez **Visio** ou **draw.io"" pour créer un **schéma simple** représentant un réseau local avec les composants que vous avez décrits.
+* Votre schéma doit inclure au minimum :
 
   * 1 **routeur**
   * 1 **switch**
   * 2 **ordinateurs**
   * 1 **imprimante**
-* Rends ce schéma au format `.VSDX` ou `.PDF`.
+* Rendez ce schéma au format `.VSDX` ou `.PDF` ou `.PNG` .
 
 ---
 
 ### 4. Exemple pratique
 
-* Choisis un exemple d’une entreprise, d’une école ou d’une maison.
-* Explique en **2 à 3 phrases** comment les composants sont utilisés dans cet environnement.
+* Choisissez un exemple d’une entreprise, d’une école ou d’une maison.
+* Expliquez en **2 à 3 phrases** comment les composants sont utilisés dans cet environnement.
+
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
 
 ---
 
 ### 5. Sources utilisées
 
-* Indique les sources que tu as consultées pour tes recherches.
+* Indiquez les sources que vous avez consultées pour vos recherches.
+
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
 
 ---
+
+# BROUILLON / REPONSES
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
+`______________________________________________________________`
